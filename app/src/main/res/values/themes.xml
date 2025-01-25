@@ -1,0 +1,6 @@
+<resources>
+    <style name="Theme.MyFirstApp" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Customize your theme here -->
+        <item name="android:windowLightStatusBar">true</item>
+    </style>
+</resources>
